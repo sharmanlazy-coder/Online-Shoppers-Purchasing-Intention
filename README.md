@@ -119,4 +119,4 @@ This will:
 ---
 
 ✨ *This project demonstrates how clustering can reveal customer behavior patterns, but also why supervised learning is often more effective for predicting purchase intent.*
-```
+---
